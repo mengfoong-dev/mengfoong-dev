@@ -2,8 +2,7 @@
 I'm an **AI Engineer** specializing in multilingual speech intelligence and LLM-powered platforms. Over the past two years I've delivered four production systems end to end — from fine-tuning Whisper for Malay–English–Mandarin code-switching to self-hosting large language models at scale.
 
 - 🔭 Building speech intelligence and reliable AI infrastructure
-- 🧠 Focused on self-hosted LLMs, STT fine-tuning, and async inference pipelines
-- 🌏 Based in Klang, Selangor, Malaysia
+- 🧠 Focused on self-hosted LLMs, STT fine-tuning, and web pipelines or anything that solves problems haha
 - 🌿 Away from the keyboard, I'm into **nature and aquascaping** — and powered by good **coffee** ☕
 
 ## 🌐 Portfolio: [mengfoong.com](https://mengfoong.com)
