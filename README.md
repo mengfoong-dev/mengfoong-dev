@@ -29,3 +29,5 @@ I'm an **AI Engineer** specializing in multilingual speech intelligence and LLM-
 [![](https://visitcount.itsvg.in/api?id=mengfoong-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- profile readme -->
+
